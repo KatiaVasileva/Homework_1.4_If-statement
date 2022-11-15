@@ -10,7 +10,7 @@ public class Main {
             System.out.println("Поздравляем с совершенолетием!");
         }
         if (age < 18) {
-            System.out.println("Возраст совершеннолетия ещё не наступил, и нужно немного подождать");
+            System.out.println("Возраст совершенолетия ещё не наступил, и нужно немного подождать");
         }
         System.out.println();
 
@@ -53,7 +53,7 @@ public class Main {
         if (age >= 18) {
             System.out.println("Поздравляем с совершенолетием!");
         } else {
-            System.out.println("Возраст совершеннолетия ещё не наступил, и нужно немного подождать");
+            System.out.println("Возраст совершенолетия ещё не наступил, и нужно немного подождать");
         }
         System.out.println();
 
